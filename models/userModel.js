@@ -48,9 +48,9 @@ const userSchema = mongoose.Schema( {
         default : "user"
     } ,
 
-    // profilePic : {
-    //     type : Buffer , 
-    // } , 
+    profilePic : {
+        type : Buffer , 
+    } , 
 
     cart : [ {
         type :mongoose.Schema.Types.ObjectId , 
