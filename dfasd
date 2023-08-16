@@ -1,0 +1,51 @@
+[33mcommit cf5e5c081fd2761361a7d1857a67e3e65cc0205d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Wed Aug 16 15:15:49 2023 +0500
+
+    Backend with routes for user, product, cart and order + controllers for respective entities + models for the respective entities + error handling, authentication middlewares
+
+[33mcommit b1759ace2e50481cd2afc0d760a4da53b9937d19[m
+Merge: 72a2b53 825d1f7
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Wed Aug 16 14:47:03 2023 +0500
+
+    Merge branch 'master' of https://github.com/WajidAli05/Ecommerce-backend-with-Express-JS
+
+[33mcommit 72a2b53003b84e5b675b4d704a77cd122e985a5c[m
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Wed Aug 16 14:41:24 2023 +0500
+
+    recommitted changes in gitignore file and userModel
+
+[33mcommit 825d1f773fa0799b0676d4bd93db4d106270b47d[m[33m ([m[1;31mEcommerce-backend-with-Express-JS/master[m[33m)[m
+Merge: cb3d328 8d9ed4c
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Tue Aug 15 17:19:52 2023 +0500
+
+    Merge pull request #1 from WajidAli05/new-branch
+    
+    made changes to gitignore file
+
+[33mcommit 8d9ed4cf7d02642ed8331b0aaacdf37488d71357[m[33m ([m[1;31mEcommerce-backend-with-Express-JS/new-branch[m[33m)[m
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Tue Aug 15 16:55:55 2023 +0500
+
+    made changes to gitignore file
+
+[33mcommit cb3d3288532f885bbecbe7bcb9cf1680a2d0680f[m
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Tue Aug 15 16:42:47 2023 +0500
+
+    ignore .env file
+
+[33mcommit 1ba87dff89de8551dcbae2b523b65cccee84a391[m[33m ([m[1;31mEcommerce-backend-with-Express-JS-v2/master[m[33m)[m
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Tue Aug 15 16:00:48 2023 +0500
+
+    changes in .gitignore file
+
+[33mcommit 0364011a77be0192fed3356f9fc58bae35ddb815[m
+Author: Wajid Ali <127591211+WajidAli05@users.noreply.github.com>
+Date:   Tue Aug 15 15:27:32 2023 +0500
+
+    Ecommerce system backend with Express JS
